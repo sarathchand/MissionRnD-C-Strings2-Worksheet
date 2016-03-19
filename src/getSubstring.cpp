@@ -52,7 +52,6 @@ char * get_sub_string(char *str, int i, int j){
 }
 int validate(char *str, int i, int j)
 {
-	int p;
 	if (str == NULL)
 	{
 		return -1;
